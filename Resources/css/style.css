@@ -1,0 +1,12 @@
+body{font-size:18px;}
+.container{width:960px;}
+/*header styling*/
+.header{background-color:#000000;
+        padding-top:.66rem;
+        padding-bottom:.66rem;}
+.header img{height:1.5rem;
+            padding-left:.5rem;
+            padding-right:1rem;}
+.header p{font-family: Arial, Helvetica, sans-serif;
+           font-size: 1rem;}
+
