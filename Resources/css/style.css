@@ -3,7 +3,8 @@ body{font-size:18px;}
 /*header styling*/
 .header{background-color:black;
         padding-top:.66rem;
-        padding-bottom:.66rem;}
+        padding-bottom:.66rem;
+        display:inline-flex}
 .header img{height:1.5rem;
             padding-left:.5rem;
             padding-right:1rem;}
