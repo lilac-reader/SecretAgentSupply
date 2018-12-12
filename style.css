@@ -1,7 +1,6 @@
 body{font-size:18px;font-family: Arial, Helvetica, sans-serif;}
 .container{  max-width: 960px;
-  margin: 0px auto;
-display:flex;}
+  margin: 0px auto;}
 
 /*header styling*/
 .header{background-color:black;
@@ -38,4 +37,9 @@ align-items:center;}
 .product-name{display:block;background-color:black;color:white;text-align:center; padding:.5rem 0;}
 /*Information*/
 .business{margin:3rem 0 0 0;}
+.info{width:35%;}
 
+
+.title{display: block;background-color:black;color:white;padding:1rem 2rem;}
+/*Footer*/
+footer{height:5rem;background-color:black;color:white;text-align:left;padding-top:3rem;}
